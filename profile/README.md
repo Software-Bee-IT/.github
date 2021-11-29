@@ -7,7 +7,7 @@
 
 <h3 align="center">About Us:</h3>
 <p align="center">
-  Software Bee IT is a ICT service and Software Development company based in the Netherlands. One of our most notable sodtware categor would be Discord bots.
+  Software Bee IT is a ICT service and Software Development company based in the Netherlands. One of our most notable sodtware category would be Discord bots.
 </p>
 
 ---
